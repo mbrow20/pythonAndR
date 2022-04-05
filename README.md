@@ -12,6 +12,13 @@
     pip install virtualenv <br>
     pip install numpy<br>
   </blockquote>
+  <li>Open the pythonAndR.Rproj to open R. Install these packages when you're in RStudio.</li>
+  <blockquote>
+    install.packages("shiny") <br>
+    install.packages("DT") <br>
+    install.packages("RColorBrewer") 
+    install.packages("reticulate") 
+  </blockquote>
 </ol>
 
 
