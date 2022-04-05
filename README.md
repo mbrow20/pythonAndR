@@ -19,7 +19,7 @@
     install.packages("RColorBrewer") <br>
     install.packages("reticulate") <br>
   </blockquote>
-  <li>Open ui.R file in R. You can run the app locally in your computer to make sure it is running correctly. In the upper right corner of Rstudio there is a <p style="color:blue";><strong>Publish</strong></ps></li>. You should run <strong>rsconnect</strong> on your computer and set up a shiny account. The account is uniquely identified on this computer.
+  <li>Open ui.R file in R. You can run the app locally in your computer to make sure it is running correctly. In the upper right corner of Rstudio there is a <span style="color:blue";><strong>Publish</strong></span></li>. You should run <strong>rsconnect</strong> on your computer and set up a shiny account. The account is uniquely identified on this computer.
   
 </ol>
 
