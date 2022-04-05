@@ -19,6 +19,13 @@
     install.packages("RColorBrewer") 
     install.packages("reticulate") 
   </blockquote>
+  <li>Open ui.R file in R. You can run the app locally in your computer to make sure it is running correctly. In the upper right corner of Rstudio there is a <style="color:DodgerBlue"><strong>Publish</strong></style></li>
+  <blockquote>
+    install.packages("shiny") <br>
+    install.packages("DT") <br>
+    install.packages("RColorBrewer") 
+    install.packages("reticulate") 
+  </blockquote>
 </ol>
 
 
